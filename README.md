@@ -18,3 +18,8 @@ PS：由于时间有限，只完成了**循迹自动驾驶**的部分，对于�
 
 ## 补充文档
 
+- [车辆上手文档](Getting_Start.pdf)
+
+## 参与贡献人员
+
+本系列文档主要由 [@cszlxk](https://github.com/czslxk) 编写完成，由 [@zqy1018](https://github.com/zqy1018) 添加部分内容并予以排版发布。 
